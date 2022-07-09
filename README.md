@@ -30,7 +30,7 @@ The image is based on Alpine, but Ansible is quite big (400mb), so nothing much 
 
 The image tag follows this pattern:
 
-<terragrunt-version>-<ansible-version>
+`terragrunt-version`-`ansible-version`
 
 Example: 1.2.4-5.8.0
 
